@@ -27,7 +27,7 @@ $ sudo apt-get install git
 Clone the repository into a new directory:
 
 ```
-$ git clone https://github.com/Aristote-code/monty.git
+$ git clone https://github.com/aristote-code/monty.git
 ```
 Compile with the following:
 
@@ -191,7 +191,8 @@ $ cd Betty; ./install.sh
 
 ## :blue_book: Authors
 
-* **Brennan D Baraban** - [@Aristote-code](https://github.com/Aristote-code)
+* **Brennan D Baraban** - [@Aristote-code](https://github.com/aristote-code)
+
 
 ## :mag: License
 
